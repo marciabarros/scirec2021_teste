@@ -59,34 +59,26 @@ Download validation
 
 Download test
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Timeline
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+- Training and validation set release: April 26th, 2021
+- Test set release: May 31st, 2021
+- Final Evaluation: June 14th, 2021
+- Participants final results: June 21st, 2021
+- Paper submission deadline: July  5th , 2021
+- Reviewer deadline: July 12nd, 2021
+- Author notification: July 18, 2021
+- Camera-ready version deadline: July 25th, 2021
+- Workshop: August 1st, 2021
 
-- Bulleted
-- List
+## Submissions
 
-1. Numbered
-2. List
+The participants are invited to submit a paper describing their solutions for the challenge.
+All submissions must be written in English following Springer [LNCS](http://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines) 
+author guidelines  and submitted as PDF files (maximum 6 pages excluding references) to 
+[EasyChair]( scirec2021@easychair.org). 
+A compilation of the accepted papers will be submitted to an issue of [CEUR-WS](http://ceur-ws.org/). 
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/marciabarros/scirec2021_teste/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+At least one author per paper needs to register to [ACM-BCB conference](https://acm-bcb.org/2021/index.php) and attend the workshop to present the work. 
