@@ -18,6 +18,8 @@ With this challenge we have as goals:
 - Improve the quality of the datasets;
 - Help in the fight to COVID-19. 
 
+The best results will be presented at the 1st workshop on Scientific Recommendations Challenge hosted by [ACM-BCB 2021 conference](https://acm-bcb.org/2021/index.php). 
+
 ## Participation
 
 We invite everyone interested in scientific fields and recommendations systems to participate in this challenge. 
@@ -84,4 +86,26 @@ At least one author per paper needs to register to [ACM-BCB conference](https://
 
 ## Awards
 
+## Organazation
+
+### Organization committee
+
+- Márcia Barros, Faculdade de Ciências, Universidade de Lisboa, Portugal
+- Francisco M. Couto, Faculdade de Ciências, Universidade de Lisboa, Portugal
+- Ángel González-Prieto, Universidad Autónoma de Madrid, Spain
+- Raúl Lara-Cabrera, Universidad Politécnica de Madrid, Spain
+- Matilde Pato, Faculdade de Ciências, Universidade de Lisboa, Portugal
+- Fernando Ortega Requena, Universidad Politécnica de Madrid, Spain
+
+### Program committee
+
+- To be announced
+
+## Venue
+Registration at [ACM-BCB conference](https://acm-bcb.org/2021/index.php)
+
+## Contacts
+
+## Acknowledgement 
+This work was supported by FCT through funding of Deep Semantic Tagger (DeST) project (ref. PTDC/CCI-BIO/28685/2017), LASIGE Research Unit (ref. UIDB/00408/2020 and ref. UIDP/00408/2020), and PhD Scholarship ref. SFRH/BD/128840/2017.
 
