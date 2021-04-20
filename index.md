@@ -1,4 +1,4 @@
-## [About](#About)
+## About
 
 SciReC - Scientific Recommendations Challenge - is a challenge whose goal is benchmarking a new recommendation dataset in the fields of Health and Chemistry. 
 
