@@ -53,6 +53,9 @@ For the final evaluation, the participants must submit the ranked list of recomm
 The evaluation metric is the [Mean Reciprocal Ranking](https://en.wikipedia.org/wiki/Mean_reciprocal_rank). 
 
 ### Download
+
+For access to the datasets, please fill this [form](https://forms.gle/Bik6h6Zz62HG3YxYA).
+
 Download train
 
 Download validation 
