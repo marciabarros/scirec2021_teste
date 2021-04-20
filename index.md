@@ -18,7 +18,7 @@ With this challenge we have as goals:
 - Improve the quality of the datasets;
 - Help in the fight to COVID-19. 
 
-## Participations
+## Participation
 
 We invite everyone interested in scientific fields and recommendations systems to participate in this challenge. 
 
@@ -56,11 +56,7 @@ The evaluation metric is the [Mean Reciprocal Ranking](https://en.wikipedia.org/
 
 For access to the datasets, please fill this [form](https://forms.gle/Bik6h6Zz62HG3YxYA).
 
-Download train
-
-Download validation 
-
-Download test
+First we eill send the train and the validations sets, and then the test set, according to the timeline. 
 
 
 ## Timeline
