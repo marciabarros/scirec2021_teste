@@ -1,3 +1,8 @@
+## [About](#About)
+
+SciReC - Scientific Recommendations Challenge - is a challenge whose goal is benchmarking a new recommendation dataset in the fields of Health and Chemistry. 
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/marciabarros/scirec2021_teste/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
