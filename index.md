@@ -58,7 +58,7 @@ The evaluation metric is the [Mean Reciprocal Ranking](https://en.wikipedia.org/
 
 For access to the datasets, please fill this [form](https://forms.gle/Bik6h6Zz62HG3YxYA).
 
-First we eill send the train and the validations sets, and then the test set, according to the timeline. 
+First we will send the train and the validations sets, and then the test set, according to the timeline. 
 
 
 ## Timeline
