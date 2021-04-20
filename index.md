@@ -1,3 +1,6 @@
+## News
+
+
 ## About
 
 SciReC2021 - Scientific Recommendations Challenge is the first challenge with the goal of benchmarking a new recommendation dataset in the fields of Health and Chemistry. 
@@ -85,6 +88,8 @@ A compilation of the accepted papers will be submitted to an issue of [CEUR-WS](
 At least one author per paper needs to register to [ACM-BCB conference](https://acm-bcb.org/2021/index.php) and attend the workshop to present the work. 
 
 ## Awards
+[Unicage](https://unicage.eu/) told us that it would like to award a prize for the team that achieves the best MRR. 
+The prize is expected to be an open-source microcontroller board, such as arduino or similar.
 
 ## Organazation
 
