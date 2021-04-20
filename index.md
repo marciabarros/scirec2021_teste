@@ -32,7 +32,7 @@ The pipeline used to create the dataset was as follows:
 - Named Entity Recognition (NER) of the entities of the DO and ChEBI (with link to DrugBank);
 - Extraction of the authors and publication date.
 
-The dataset has the format of <user, item, item_name, publication_date>, as shown in \tablename~\ref{tab:dataset_example}, where the users are unique authors, the items are DO and ChEBI entities recognized in the articles in the NER phase. The dataset is sorted in ascending order by the user and followed by the year of publication.
+The dataset has the format of <user, item, item_name, publication_date>, where the users are unique authors, the items are DO and ChEBI entities recognized in the articles in the NER phase. The dataset is sorted in ascending order by the user and followed by the year of publication.
 
 ### Evaluation 
 
@@ -48,13 +48,15 @@ The dataset will be split into training, validation and test set. The training a
 | 4    | d     | e | b | ? |   | Test       |
 
 
-For the test and final phase, the participants must provide a ranked list with the top@$10$ recommendations for each user in the test set, with the format: user, [list of 10 IDs of the entities].
+For the test and final phase, the participants must provide a ranked list with the top@10 recommendations for each user in the test set, with the format: user, [list of 10 IDs of the entities].
 For the final evaluation, the participants must submit the ranked list of recommendations.
 The evaluation metric is the [Mean Reciprocal Ranking](https://en.wikipedia.org/wiki/Mean_reciprocal_rank). 
 
 ### Download
 Download train
+
 Download validation 
+
 Download test
 
 ### Markdown
