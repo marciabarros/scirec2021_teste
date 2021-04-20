@@ -82,3 +82,7 @@ author guidelines  and submitted as PDF files (maximum 6 pages excluding referen
 A compilation of the accepted papers will be submitted to an issue of [CEUR-WS](http://ceur-ws.org/). 
 
 At least one author per paper needs to register to [ACM-BCB conference](https://acm-bcb.org/2021/index.php) and attend the workshop to present the work. 
+
+## Awards
+
+
