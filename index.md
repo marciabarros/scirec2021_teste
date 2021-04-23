@@ -1,6 +1,4 @@
 ## News
-- teste news 
-- teste news 
 
 ## About
 
