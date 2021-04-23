@@ -8,12 +8,17 @@
   <link rel="stylesheet" type="text/css" media="screen"
     href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
   <style>
+    .menu-wrapper {
+      background-color: #111;
+      text-align: center;
+    }
+
     .menu {
       list-style-type: none;
       margin: 0;
       padding: 0;
       overflow: hidden;
-      background-color: #111;
+      display: inline-block;
     }
 
     .menu li {
@@ -56,17 +61,19 @@
       {% endif %}
     </header>
   </div>
+  <div class="menu-wrapper">
+    <ul class="menu">
+      <li><a href="#about">about</a></li>
+      <li><a href="#participation">participation</a></li>
+      <li><a href="#timeline">timeline</a></li>
+      <li><a href="#submission">submission</a></li>
+      <li><a href="#awards">awards</a></li>
+      <li><a href="#organization">organization</a></li>
+      <li><a href="#venue">venue</a></li>
+      <li><a href="#contacts">contacts</a></li>
+      <li><a href="#acknowledgement">acknowledgement</a></li>
 
-  <ul class="menu">
-    <li><a href="#about">about</a></li>
-    <li><a href="#participation">participation</a></li>
-    <li><a href="#timeline">timeline</a></li>
-    <li><a href="#submission">submission</a></li>
-    <li><a href="#awards">awards</a></li>
-    <li><a href="#organization">organization</a></li>
-    <li><a href="#venue">venue</a></li>
-    <li><a href="#contacts">contacts</a></li>
-    <li><a href="#acknowledgement">acknowledgement</a></li>
+  </div>
 
 
   </ul>
