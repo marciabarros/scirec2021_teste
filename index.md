@@ -91,7 +91,7 @@ At least one author per paper needs to register to [ACM-BCB conference](https://
 [Unicage](https://unicage.eu/) told us that it would like to award a prize for the team that achieves the best MRR. 
 The prize is expected to be an open-source microcontroller board, such as arduino or similar.
 
-## Organazation
+## Organization
 
 ### Organization committee
 
